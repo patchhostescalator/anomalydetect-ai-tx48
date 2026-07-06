@@ -1,4 +1,4 @@
-# 
+# Premium AnomalyDetect downloader. Download and install with step-by-step-guide and graphical-interface — fast, secure, and easy to use.
 
 
 
